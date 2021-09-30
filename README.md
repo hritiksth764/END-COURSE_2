@@ -1,4 +1,4 @@
-## **Back Propogation (ASSIGNMENT_2)**
+## **Back Propogation (ASSIGNMENT_02)**
 
 ## Learning Graphs when changing the learning rates:
 
